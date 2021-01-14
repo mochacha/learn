@@ -81,6 +81,7 @@
     <Content Include="Home Work\2021-01-04-作业.html" />
     <Content Include="Home Work\2021-01-17-作业.html" />
     <Content Include="HTML+CSS\practice.html" />
+    <Content Include="Resources\Images\my.png" />
     <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
