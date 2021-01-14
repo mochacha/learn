@@ -79,6 +79,8 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="HTML+CSS\2021-01-04-作业.html" />
+    <Content Include="HTML+CSS\2021-01-17-作业.html" />
+    <Content Include="HTML+CSS\practice.html" />
     <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
