@@ -82,7 +82,8 @@
     <Content Include="Home Work\2021-01-17-作业.html" />
     <Content Include="Home Work\getpoints.html" />
     <Content Include="Home Work\question.html" />
-    <Content Include="HTML+CSS\practice.html" />
+    <Content Include="HTML+CSS\center.html" />
+    <Content Include="HTML+CSS\practic.html" />
     <Content Include="Resources\Images\advice.png" />
     <Content Include="Resources\Images\aware.png" />
     <Content Include="Resources\Images\message.png" />
