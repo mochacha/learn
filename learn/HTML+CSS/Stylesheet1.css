@@ -1,0 +1,12 @@
+﻿/*p{
+    color:red
+}*/
+
+body p 
+{
+    color:aqua
+}
+
+p:first-child{
+    background-color:firebrick
+}
