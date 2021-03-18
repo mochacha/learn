@@ -1507,6 +1507,7 @@
     <Content Include="sc\umd\popper-utils.min.js" />
     <Content Include="sc\umd\popper.js" />
     <Content Include="sc\umd\popper.min.js" />
+    <Content Include="test-git.html" />
     <Content Include="TextFile1.txt" />
   </ItemGroup>
   <ItemGroup>
