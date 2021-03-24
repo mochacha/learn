@@ -1535,5 +1535,8 @@
   <ItemGroup>
     <TypeScriptCompile Include="sc\index.d.ts" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="C SHARP\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
