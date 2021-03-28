@@ -6,7 +6,13 @@ namespace csharp_learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            while (true)
+            {
+                var conten = Console.ReadLine();
+                Console.WriteLine(conten.ToString());
+
+            }
+
         }
     }
 }
