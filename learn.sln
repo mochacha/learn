@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn", "learn\learn.csproj", "{A6DEF899-9B9D-4846-AF07-FB12C7DA732A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-learning", "csharp-learning\csharp-learning.csproj", "{3FD80005-0108-499F-8482-B79EC311D888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-learning 2021-03-28 作业", "csharp-learning\csharp-learning 2021-03-28 作业.csproj", "{3FD80005-0108-499F-8482-B79EC311D888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
