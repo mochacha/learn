@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace csharp_learning_2021_04_04_作业
 {
@@ -6,6 +7,14 @@ namespace csharp_learning_2021_04_04_作业
     {
         static void Main(string[] args)
         {
+
+            ArrayList list = new ArrayList();
+            int b = 1;
+            string a = "a";
+            list.Add(b);
+            list.Add(a);
+            Console.WriteLine(list[0].GetType().ToString()) ;
+            Console.WriteLine(list[1].GetType().ToString()) ;
             int i = 1;
             while (i == 1)
             {
