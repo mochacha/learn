@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-learning 2021-03-28 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-learning-2021-04-04-作业", "csharp-learning-2021-04-04-作业\csharp-learning-2021-04-04-作业.csproj", "{1F75639B-49A2-4241-8B03-9BD57ED541C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-2021-04-10 作业", "csharp-2021-04-10 作业\csharp-2021-04-10 作业.csproj", "{4DE450B6-7932-45F5-AECA-4065C3B4D257}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-2021-04-10 作业", "csharp-2021-04-10 作业\csharp-2021-04-10 作业.csproj", "{4DE450B6-7932-45F5-AECA-4065C3B4D257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-04-18-作业", "2021-04-18-作业\2021-04-18-作业.csproj", "{FD5E79A3-F1C6-424B-9FBE-EC0F85DD1E0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4DE450B6-7932-45F5-AECA-4065C3B4D257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE450B6-7932-45F5-AECA-4065C3B4D257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE450B6-7932-45F5-AECA-4065C3B4D257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5E79A3-F1C6-424B-9FBE-EC0F85DD1E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5E79A3-F1C6-424B-9FBE-EC0F85DD1E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5E79A3-F1C6-424B-9FBE-EC0F85DD1E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5E79A3-F1C6-424B-9FBE-EC0F85DD1E0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
